@@ -25,7 +25,7 @@ It connects to  a weather websites (https://www.weatherbit.io/) API, extracts cu
 - **Python** – to extract and process the API data
 
 ---
-Why I Built This
+## Why I Built This
 
 To practice building a real-world, automated data pipeline that fetches external data and stores it in the cloud. It’s fast, reusable, and built with production-grade tools.
 
