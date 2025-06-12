@@ -2,7 +2,7 @@
 
 This data engineering project automates the process of collecting real-time weather data for **Lagos State, Nigeria**, using  data platform tools like **Airflow**, **Docker**, **Terraform**, and **data lake whcich is AWS S3**.
 
-It connects to  a weather websites (https://www.weatherbit.io/) API, extracts current weather data for Lagos, and stores it in a cloud bucket — all automated, no checking, saving you lot of productive time.
+It connects to  a weather websites (https://www.weatherbit.io/) API, extracts current weather data for Lagos, and stores it in aws data lake  — all automated, no checking, saving you lots of productive time.
 
 ---
 
