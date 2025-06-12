@@ -1,4 +1,4 @@
-#  WeatherSync API - Automated Weather Data for Lagos
+#  WeatherSync API - Automated Weather Data Dump for Lagos, Nigeria.
 
 This data engineering project automates the process of collecting real-time weather data for **Lagos State, Nigeria**, using  data platform tools like **Airflow**, **Docker**, **Terraform**, and ** data lake whcich is AWS S3**.
 
